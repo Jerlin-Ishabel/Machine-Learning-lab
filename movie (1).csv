@@ -1,0 +1,11 @@
+movie_name,duration,language,average_rating,number_of_reviews,genre,year,budget,revenue,director
+Inception,148,English,8.8,20000,Science Fiction,2010,160,829,Christopher Nolan
+Titanic,195,English,7.9,18000,Romance,1997,200,2187,James Cameron
+Parasite,132,Korean,8.6,15000,Thriller,2019,11,265,Bong Joon-ho
+Avengers: Endgame,181,English,8.4,21000,Action,2019,356,2798,Anthony Russo
+The Godfather,175,English,9.2,30000,Crime,1972,6,250,Francis Ford Coppola
+Spirited Away,125,Japanese,8.6,10000,Animation,2001,19,395,Hayao Miyazaki
+Frozen,102,English,7.4,22000,Animation,2013,150,1300,Chris Buck
+Coco,105,English,8.4,17000,Animation,2017,175,807,Lee Unkrich
+The Dark Knight,152,English,9.0,25000,Action,2008,185,1004,Christopher Nolan
+Forrest Gump,142,English,8.8,28000,Drama,1994,55,678,Robert Zemeckis
