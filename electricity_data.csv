@@ -1,0 +1,8 @@
+household_size,num_appliances,daily_usage_hours,season,electricity_consumption
+3,5,5,Winter,120
+4,8,6,Summer,150
+2,3,4,Spring,90
+5,10,8,Winter,200
+3,4,6,Summer,130
+4,6,7,Autumn,160
+2,2,3,Spring,80
