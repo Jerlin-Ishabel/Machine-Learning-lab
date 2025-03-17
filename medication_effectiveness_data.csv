@@ -1,0 +1,6 @@
+patient_id,medication,duration,effectiveness_score
+1,MedA,10,8
+2,MedA,12,7
+3,MedB,8,6
+4,MedA,15,9
+5,MedB,7,5
