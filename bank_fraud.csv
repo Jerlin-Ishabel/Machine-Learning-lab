@@ -1,0 +1,11 @@
+Transaction_ID,Amount,Transaction_Type,Account_Age,Location,Device_Type,Previous_Fraud,Credit_Score,Fraud
+1001,500,Online Purchase,2,New York,Mobile,0,720,0
+1002,7500,Wire Transfer,5,Chicago,Laptop,1,650,1
+1003,120,ATM Withdrawal,1,Houston,ATM,0,780,0
+1004,9800,Wire Transfer,3,Los Angeles,Mobile,1,600,1
+1005,300,Online Purchase,4,Miami,Desktop,0,710,0
+1006,15000,Wire Transfer,6,Dallas,Laptop,1,580,1
+1007,450,ATM Withdrawal,2,Seattle,ATM,0,730,0
+1008,9500,Online Purchase,3,Boston,Mobile,1,640,1
+1009,200,Online Purchase,5,Denver,Desktop,0,750,0
+1010,12500,Wire Transfer,1,Phoenix,Laptop,1,620,

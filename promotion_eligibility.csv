@@ -1,0 +1,11 @@
+Employee_ID,Age,Experience,Department,Education,Previous_Rating,Training_Hours,Salary,Promotion_Eligible
+101,28,3,Sales,Bachelors,4.5,20,50000,1
+102,35,10,IT,Masters,3.8,15,75000,0
+103,40,15,HR,PhD,4.2,25,85000,1
+104,29,4,Marketing,Bachelors,3.5,10,48000,0
+105,32,8,IT,Masters,4,18,70000,1
+106,45,20,Finance,PhD,4.7,30,95000,1
+107,27,2,HR,Bachelors,3.2,12,45000,0
+108,30,6,Sales,Masters,4.1,22,62000,1
+109,50,25,Finance,PhD,4.8,35,100000,1
+110,26,1,Marketing,Bachelors,3,8,40000,0

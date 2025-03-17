@@ -1,0 +1,11 @@
+Employee_ID,Age,Experience,Department,Education,Previous_Company_Tenure,Job_Satisfaction,Training_Hours,Salary,Hopped
+201,28,3,Sales,Bachelors,2,3.5,20,50000,1
+202,35,10,IT,Masters,8,4.2,15,75000,0
+203,40,15,HR,PhD,10,4.5,25,85000,0
+204,29,4,Marketing,Bachelors,3,3.2,10,48000,1
+205,32,8,IT,Masters,6,4,18,70000,0
+206,45,20,Finance,PhD,12,4.8,30,95000,0
+207,27,2,HR,Bachelors,1,3,12,45000,1
+208,30,6,Sales,Masters,4,3.8,22,62000,1
+209,50,25,Finance,PhD,15,4.9,35,100000,0
+210,26,1,Marketing,Bachelors,0.5,2.8,8,40000,1
