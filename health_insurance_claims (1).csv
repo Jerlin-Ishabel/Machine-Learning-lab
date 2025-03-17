@@ -1,0 +1,6 @@
+Policy_ID,Age,Gender,Claim_Amount,Pre-Existing_Condition,Hospitalized,Claim_Status
+P001,32,Male,1200,No,No,Approved
+P002,45,Female,5000,Yes,Yes,Approved
+P003,28,Male,800,No,No,Denied
+P004,60,Female,10000,Yes,Yes,Approved
+P005,35,Male,1500,No,Yes,Approved

@@ -1,0 +1,6 @@
+HeartRate,AccX,AccY,AccZ,GyroX,GyroY,GyroZ,Activity
+80,0.1,0.3,0.5,0.02,-0.03,0.01,Walking
+90,0.4,0.2,0.6,0.05,-0.01,0.03,Running
+75,0,0.1,0.2,0.01,-0.02,0,Sitting
+85,0.2,0.4,0.7,0.03,-0.04,0.02,Standing
+5,1.02,-0.34,9.55,0.07,-0.04,0.08,Running
