@@ -1,0 +1,11 @@
+engine_size,weight_kg,fuel_type,vehicle_type
+1.2,1000,Petrol,Hatchback
+2.0,1500,Diesel,Sedan
+3.5,2000,Diesel,SUV
+4.0,2500,Petrol,SUV
+1.8,1200,Petrol,Sedan
+1.0,900,Electric,Electric
+5.0,3000,Diesel,Truck
+6.0,3500,Petrol,Truck
+1.6,1100,Petrol,Hatchback
+2.5,1800,Diesel,Sedan

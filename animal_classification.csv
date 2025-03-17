@@ -1,0 +1,11 @@
+name,legs,weight_kg,diet,class
+Dog,4,25.0,Omnivore,Mammal
+Cat,4,5.0,Carnivore,Mammal
+Elephant,4,5000.0,Herbivore,Mammal
+Eagle,2,3.0,Carnivore,Bird
+Shark,0,200.0,Carnivore,Fish
+Frog,4,0.5,Carnivore,Amphibian
+Snake,0,2.0,Carnivore,Reptile
+Horse,4,400.0,Herbivore,Mammal
+Penguin,2,30.0,Carnivore,Bird
+Kangaroo,2,85.0,Herbivore,Mammal

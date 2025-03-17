@@ -1,0 +1,11 @@
+leaf_color,texture,moisture_level,disease
+Green,Smooth,80,Healthy
+Yellow,Rough,60,Fungal
+Brown,Dry,30,Bacterial
+Green,Smooth,85,Healthy
+Green,Smooth,75,Healthy
+Yellow,Rough,50,Fungal
+Brown,Dry,25,Bacterial
+Green,Smooth,90,Healthy
+Yellow,Rough,55,Fungal
+Brown,Dry,20,Bacterial
