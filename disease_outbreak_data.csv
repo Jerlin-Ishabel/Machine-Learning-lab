@@ -1,0 +1,7 @@
+date,region,number_of_cases
+2024-01-01,North,10
+2024-01-02,North,15
+2024-01-03,North,30
+2024-01-01,South,5
+2024-01-02,South,7
+2024-01-03,South,12
